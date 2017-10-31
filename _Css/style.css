@@ -1,0 +1,39 @@
+body{
+	background: black;
+}
+
+.active{
+	color:white !important;
+}
+
+
+.t-w{
+	color:white !important;
+	font-family: baskerville;
+	padding-top: 75px;
+	padding-bottom:100px;
+	font-size: 1.2em;
+}
+
+.title_1{
+	font-family: Gotham, Helvetica, sans-serif;
+	font-size: 2.0em;
+	color:red;
+}
+
+.navbar a:hover{
+	text-decoration: none;
+	color: red !important;
+}
+
+.navbar a{
+	transition: color 0.5s ease;
+	color: black;
+	
+	font-family: gotham;
+}
+
+.footer_c{
+	color:white!important;
+	font-size: 1.3em;
+}
